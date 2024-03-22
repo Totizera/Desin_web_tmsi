@@ -1,2 +1,2 @@
 # Design de Web Sites
-## Disciplina de rogramação we - Técnico em Manutenção e Suporte em Informática
+## Disciplina de programação web - Técnico em Manutenção e Suporte em Informática
